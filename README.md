@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronan</h1>
-<h3 align="center">I am a passionate web developer, currently enhancing my skills in building interactive and responsive web applications with Node.js and React. With a solid background in HTML, CSS, and JavaScript, I am focused on improving user experiences and web application performance</h3>
+<h3 align="left">I am a passionate web developer, currently enhancing my skills in building interactive and responsive web applications with Node.js and React. With a solid background in HTML, CSS, and JavaScript, I am focused on improving user experiences and web application performance</h3>
 
 - 🌱 I’m currently learning **Node.JS and React**
 
