@@ -1,12 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ronan</h1>
-<h3 align="left">I am a passionate web developer 🚀, currently enhancing my skills in building interactive and responsive web applications with Node.js and React. With a solid background in HTML, CSS, and JavaScript, I am focused on improving user experiences and web application performance</h3>
+<h3 align="left">Here's a refactored version of your GitHub presentation that highlights your updated tech stack and adds more flair to make it more engaging:
+Hi there! 👋 I'm Ronan
 
-- 🌱 I’m currently learning **Node.JS and React**
+I'm a passionate web developer 🚀, dedicated to crafting interactive and responsive web applications. My journey in web development is fueled by a love for learning and a drive to create efficient, user-friendly digital experiences.
+🌟 What I Do:
 
-- 💬 Ask me about **Web development**
+    Full-Stack Development: Specializing in building robust web applications with Ruby on Rails for the backend and React for dynamic, responsive front-end interfaces.
+    RESTful API Design: Expertise in designing and implementing scalable REST APIs to power seamless web experiences.
+    Database Management: Skilled in using PostgreSQL for creating, managing, and optimizing relational databases.
+    JavaScript Mastery: Proficient in modern JavaScript (ES6+), enhancing web application performance and interactivity.
 
-- 📫 How to reach me **kervella.ronan@hotmail.com**
+🌱 Currently Exploring:
 
+    Node.js and React to deepen my understanding of server-side JavaScript and improve front-end interactivity.
+    Continuously enhancing my skills in Ruby on Rails, focusing on advanced features and best practices.
+
+💬 Ask Me About:
+
+    Web development best practices, whether it's front-end or back-end.
+    Building scalable and maintainable web applications.
+    Optimizing performance and user experience.
+
+📫 Let's Connect:
+
+    Feel free to reach out to me at kervella.ronan@hotmail.com for collaboration, discussions, or just a friendly chat!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ronankerv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronan-kervella" height="30" width="40" /></a>
