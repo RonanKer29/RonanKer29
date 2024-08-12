@@ -1,33 +1,34 @@
-<h1 align="center">Hi 👋, I'm Ronan</h1>
-<h3 align="left">Here's a refactored version of your GitHub presentation that highlights your updated tech stack and adds more flair to make it more engaging:
-Hi there! 👋 I'm Ronan
+<h1>Hi there! 👋 I'm Ronan</h1>
 
-I'm a passionate web developer 🚀, dedicated to crafting interactive and responsive web applications. My journey in web development is fueled by a love for learning and a drive to create efficient, user-friendly digital experiences.
-🌟 What I Do:
+<p>I'm a passionate web developer 🚀, dedicated to crafting interactive and responsive web applications. My journey in web development is fueled by a love for learning and a drive to create efficient, user-friendly digital experiences.</p>
 
-    Full-Stack Development: Specializing in building robust web applications with Ruby on Rails for the backend and React for dynamic, responsive front-end interfaces.
-    RESTful API Design: Expertise in designing and implementing scalable REST APIs to power seamless web experiences.
-    Database Management: Skilled in using PostgreSQL for creating, managing, and optimizing relational databases.
-    JavaScript Mastery: Proficient in modern JavaScript (ES6+), enhancing web application performance and interactivity.
+<h2>🌟 What I Do:</h2>
+<ul>
+  <li><strong>Full-Stack Development:</strong> Specializing in building robust web applications with <strong>Ruby on Rails</strong> for the backend and <strong>React</strong> for dynamic, responsive front-end interfaces.</li>
+  <li><strong>RESTful API Design:</strong> Expertise in designing and implementing scalable REST APIs to power seamless web experiences.</li>
+  <li><strong>Database Management:</strong> Skilled in using <strong>PostgreSQL</strong> for creating, managing, and optimizing relational databases.</li>
+  <li><strong>JavaScript Mastery:</strong> Proficient in modern JavaScript (ES6+), enhancing web application performance and interactivity.</li>
+</ul>
 
-🌱 Currently Exploring:
+<h2>🌱 Currently Exploring:</h2>
+<ul>
+  <li><strong>Node.js</strong> and <strong>React</strong> to deepen my understanding of server-side JavaScript and improve front-end interactivity.</li>
+  <li>Continuously enhancing my skills in <strong>Ruby on Rails</strong>, focusing on advanced features and best practices.</li>
+</ul>
 
-    Node.js and React to deepen my understanding of server-side JavaScript and improve front-end interactivity.
-    Continuously enhancing my skills in Ruby on Rails, focusing on advanced features and best practices.
+<h2>💬 Ask Me About:</h2>
+<ul>
+  <li>Web development best practices, whether it's front-end or back-end.</li>
+  <li>Building scalable and maintainable web applications.</li>
+  <li>Optimizing performance and user experience.</li>
+</ul>
 
-💬 Ask Me About:
-
-    Web development best practices, whether it's front-end or back-end.
-    Building scalable and maintainable web applications.
-    Optimizing performance and user experience.
-
-📫 Let's Connect:
-
-    Feel free to reach out to me at kervella.ronan@hotmail.com for collaboration, discussions, or just a friendly chat!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>📫 Let's Connect:</h2>
+<p>Feel free to reach out to me at <strong>kervella.ronan@hotmail.com</strong> for collaboration, discussions, or just a friendly chat! <p align="left">
 <a href="https://www.linkedin.com/in/ronankerv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronan-kervella" height="30" width="40" /></a>
-</p>
+</p></p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
