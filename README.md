@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 I'm Ronan Kervella</h1>
+<h1>Hi there! 👋 I'm Ronan</h1>
 
 <p>I'm a dedicated front-end developer 🚀, focused on crafting engaging, responsive, and user-friendly web applications. My passion lies in translating design into seamless web experiences, optimizing performance, and ensuring accessibility across devices.</p>
 
@@ -13,7 +13,7 @@
 <h2>🌱 Currently Exploring:</h2>
 <ul>
   <li><strong>Next.js</strong> for advanced front-end features and performance improvements.</li>
-  <li>Continuously enhancing my skills in <strong>React</strong> and modern JavaScript (ES6+).</li>
+  <li>Continuously enhancing my skills in <strong>React</strong> and TypeScript.</li>
 </ul>
 
 <h2>💬 Ask Me About:</h2>
