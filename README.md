@@ -1,32 +1,34 @@
-<h1>Hi there! 👋 I'm Ronan</h1>
+<h1>Hi there! 👋 I'm Ronan Kervella</h1>
 
-<p>I'm a passionate web developer 🚀, dedicated to crafting interactive and responsive web applications. My journey in web development is fueled by a love for learning and a drive to create efficient, user-friendly digital experiences.</p>
+<p>I'm a dedicated front-end developer 🚀, focused on crafting engaging, responsive, and user-friendly web applications. My passion lies in translating design into seamless web experiences, optimizing performance, and ensuring accessibility across devices.</p>
 
 <h2>🌟 What I Do:</h2>
 <ul>
-  <li><strong>Full-Stack Development:</strong> Specializing in building robust web applications with <strong>Ruby on Rails</strong> for the backend and <strong>React</strong> for dynamic, responsive front-end interfaces.</li>
-  <li><strong>RESTful API Design:</strong> Expertise in designing and implementing scalable REST APIs to power seamless web experiences.</li>
-  <li><strong>Database Management:</strong> Skilled in using <strong>PostgreSQL</strong> for creating, managing, and optimizing relational databases.</li>
-  <li><strong>JavaScript Mastery:</strong> Proficient in modern JavaScript (ES6+), enhancing web application performance and interactivity.</li>
+  <li><strong>Front-End Development:</strong> Specializing in building dynamic, responsive interfaces using <strong>React</strong> and <strong>Tailwind CSS</strong>.</li>
+  <li><strong>Interactive Web Design:</strong> Experienced in creating intuitive user interfaces with a focus on <strong>UX/UI principles</strong> to ensure smooth user journeys.</li>
+  <li><strong>Performance Optimization:</strong> Skilled in optimizing web applications for performance, ensuring fast load times and smooth interactions.</li>
+  <li><strong>Cross-Device Compatibility:</strong> Building applications that work seamlessly across all devices and browsers.</li>
 </ul>
 
 <h2>🌱 Currently Exploring:</h2>
 <ul>
-  <li><strong>Node.js</strong> and <strong>React</strong> to deepen my understanding of server-side JavaScript and improve front-end interactivity.</li>
-  <li>Continuously enhancing my skills in <strong>Ruby on Rails</strong>, focusing on advanced features and best practices.</li>
+  <li><strong>Next.js</strong> for advanced front-end features and performance improvements.</li>
+  <li>Continuously enhancing my skills in <strong>React</strong> and modern JavaScript (ES6+).</li>
 </ul>
 
 <h2>💬 Ask Me About:</h2>
 <ul>
-  <li>Web development best practices, whether it's front-end or back-end.</li>
-  <li>Building scalable and maintainable web applications.</li>
-  <li>Optimizing performance and user experience.</li>
+  <li>Front-end development, from building interfaces to optimizing performance.</li>
+  <li>Creating responsive and accessible web applications.</li>
 </ul>
 
 <h2>📫 Let's Connect:</h2>
-<p>Feel free to reach out to me at <strong>kervella.ronan@hotmail.com</strong> for collaboration, discussions, or just a friendly chat! <p align="left">
+<p>Feel free to reach out to me at <strong>ronanker@proton.me</strong> for collaboration, discussions, or just a friendly chat!</p>
+
+<p align="left">
 <a href="https://www.linkedin.com/in/ronankerv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronan-kervella" height="30" width="40" /></a>
-</p></p>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
